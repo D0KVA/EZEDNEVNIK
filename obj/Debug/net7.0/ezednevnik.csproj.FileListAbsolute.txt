@@ -1,0 +1,14 @@
+C:\Users\lolik\source\repos\ezednevnik\ezednevnik\bin\Debug\net7.0\ezednevnik.exe
+C:\Users\lolik\source\repos\ezednevnik\ezednevnik\bin\Debug\net7.0\ezednevnik.deps.json
+C:\Users\lolik\source\repos\ezednevnik\ezednevnik\bin\Debug\net7.0\ezednevnik.runtimeconfig.json
+C:\Users\lolik\source\repos\ezednevnik\ezednevnik\bin\Debug\net7.0\ezednevnik.dll
+C:\Users\lolik\source\repos\ezednevnik\ezednevnik\bin\Debug\net7.0\ezednevnik.pdb
+C:\Users\lolik\source\repos\ezednevnik\ezednevnik\obj\Debug\net7.0\ezednevnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolik\source\repos\ezednevnik\ezednevnik\obj\Debug\net7.0\ezednevnik.AssemblyInfoInputs.cache
+C:\Users\lolik\source\repos\ezednevnik\ezednevnik\obj\Debug\net7.0\ezednevnik.AssemblyInfo.cs
+C:\Users\lolik\source\repos\ezednevnik\ezednevnik\obj\Debug\net7.0\ezednevnik.csproj.CoreCompileInputs.cache
+C:\Users\lolik\source\repos\ezednevnik\ezednevnik\obj\Debug\net7.0\ezednevnik.dll
+C:\Users\lolik\source\repos\ezednevnik\ezednevnik\obj\Debug\net7.0\refint\ezednevnik.dll
+C:\Users\lolik\source\repos\ezednevnik\ezednevnik\obj\Debug\net7.0\ezednevnik.pdb
+C:\Users\lolik\source\repos\ezednevnik\ezednevnik\obj\Debug\net7.0\ezednevnik.genruntimeconfig.cache
+C:\Users\lolik\source\repos\ezednevnik\ezednevnik\obj\Debug\net7.0\ref\ezednevnik.dll
